@@ -16,6 +16,8 @@
 	<div class="container">
 		<p>
 		<a href="cadastroCategoria.jsp"><button class="btn waves-effect waves-teal" type="submit">Cadastrar categoria</button></a>
+		<a href="cadastroProduto.jsp"><button class="btn waves-effect waves-teal" type="submit">Cadastrar produto</button></a>
+		<a href="listarProduto.jsp"><button class="btn waves-effect waves-teal" type="submit">Listar produto</button></a>
 	</div>
 </body>
 </html>
