@@ -21,7 +21,7 @@
 	<div class="countainer">
 		<h2>Cadastrar Categoria</h2>
 		<div class="row">
-		<form class="col s12" action="cadastroCategoria">
+		<form class="col s12" action="cadastroCategoria" method="post">
 			<div class="row">
 				<div class="input-field col s6">
 					<input id="categoria" name="categoria" type="text">

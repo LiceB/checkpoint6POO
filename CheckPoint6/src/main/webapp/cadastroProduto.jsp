@@ -25,7 +25,7 @@
 	<div class="countainer">
 		<h2>Cadastrar Produto</h2>
 		<div class="row">
-		<form class="col s12" action="cadastroProduto">
+		<form class="col s12" action="cadastroProduto" method="post">
 			<div class="row">
 				<label>Categoria</label>
 				<select name="categoria">
